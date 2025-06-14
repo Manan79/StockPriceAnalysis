@@ -1,0 +1,13 @@
+pandas 
+numpy 
+scikit-learn
+matplotlib
+seaborn
+yfinance
+requests
+datetime
+feedparser
+plotly
+streamlit
+joblib
+# Optional dependencies for additional functionality
